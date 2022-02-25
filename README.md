@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog is a meeting platform for dogs.
